@@ -56,7 +56,6 @@ document.addEventListener('keydown', jump);
 
 timerInterval = setInterval(updateTimer, 1000);
 
-// Exemplo de como reiniciar o jogo
 const restartButton = document.getElementById('restart-button');
 restartButton.addEventListener('click', () => {
     clearInterval(timerInterval);
