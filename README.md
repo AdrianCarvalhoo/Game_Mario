@@ -32,4 +32,4 @@ Você pode personalizar o jogo de acordo com suas preferências:
 
 ## Créditos
 
-A base deste projeto foi criada por Manual do Dev e personalizada por Adrian Carvalho como parte de um estudo. O projeto é baseado na temática do personagem Mario, que é propriedade da Nintendo.
+Este projeto foi personalizado por Adrian Carvalho como parte de um estudo, tendo sua base criada por Manual do Dev. O projeto é baseado na temática do personagem Mario, que é propriedade da Nintendo.
